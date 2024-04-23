@@ -56,6 +56,20 @@ body {
     user-select: none;
     z-index: 100;
 }
+
+#englishButton {
+    font-size: 30px;
+    padding: 0px 0px;
+    background-color: #00000000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer !important;
+    margin-top: 20px;
+    -webkit-user-select: none;
+    user-select: none;
+    z-index: 100;
+}
 #timer {
     font-weight: 300;
     position: absolute;
